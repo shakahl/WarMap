@@ -360,7 +360,7 @@ export default {
 
 .desktopFooter {
   position: fixed;
-  width: 33vw;
+  width: 16vw;
   height: 25vh;
 
   bottom: 0%;
